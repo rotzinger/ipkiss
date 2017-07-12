@@ -23,7 +23,7 @@ from math import floor
 
 LIB_NAME = "IPKISS"
 LIB_DESCRIPTION = "IPKISS: The Mask maker"
-VERSION = "version 2.4-alpha"
+VERSION = "version 2.4-x"
 COPYRIGHT_INFO = "copyright Ghent University, INTEC Photonics Research Group, 2002-2011 (i-depot BBIE 7396, 7556, 7748)"
 AUTHOR = "Wim Bogaerts, Pieter Dumon, Antonio Ribeiro, Emmanuel Lambert"
 AUTHOR_EMAIL = "ipkiss@intec.ugent.be"
